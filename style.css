@@ -1,0 +1,22 @@
+.role-inspector-table {
+	background: #fff;
+	font-size: 16px;
+}
+
+.role-inspector-table td {
+	min-width: 100px;
+	padding: 5px;
+}
+
+.role-inspector-table .has-capability,
+.role-inspector-table .doesnt-have-capability {
+	text-align: center;
+}
+
+.role-inspector-table .has-capability {
+	background-color: #6bc373;
+}
+
+.role-inspector-table .doesnt-have-capability {
+	background-color: #e35b5b;
+}
